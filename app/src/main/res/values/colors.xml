@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_dark">#6D1D7129</color>
+    <color name="green_light_middle">#00CA6C</color>
+    <color name="green_light_dark">#9055BF78</color>
+    <color name="green_light_bright">#E2F9E7</color>
+    <color name="olive_bright">#4E9528</color>
+    <color name="olive_light_bright">#99CD5D</color>
+    <color name="wave_dark">#C40F7776</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
